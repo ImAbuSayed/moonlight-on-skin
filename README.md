@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/moonlight-on-skin/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Moonlight On Skin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/moonlight-on-skin/) |
+| **Get License** | [Commercial Licensing for Moonlight On Skin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/moonlight-on-skin/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `1561894273fd87cfc96dfd19bde51107014e4b720e2d063aed93d5a7b64b6551` |
 | **Timestamp** | May 25, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

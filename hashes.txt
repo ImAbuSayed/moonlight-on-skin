@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Moonlight On Skin
+
+This log tracks the cryptographic history and versioning for the song **Moonlight On Skin** (moonlight-on-skin).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-25T14:43:08.908634 | `v1` | `1561894273fd87cfc96dfd19bde51107014e4b720e2d063aed93d5a7b64b6551` | `0e585556bf612c98719d3ee161636f52eba1a9ecb10d5a6cb5eb1eafc16bade3` | `2026-05-25_moonlight-on-skin-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
