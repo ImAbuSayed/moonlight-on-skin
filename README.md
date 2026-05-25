@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/moonlight-on-skin/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Moonlight On Skin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/moonlight-on-skin/) |
+| **Get License** | [Music Rights & Licensing for Moonlight On Skin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/moonlight-on-skin/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Midnight shadows falling on the hardwood floor
+> You're the only rhythm I've been waiting for
+> A single look from you and I just pull you in
+> Nothing but this fire and the moonlight on skin
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
